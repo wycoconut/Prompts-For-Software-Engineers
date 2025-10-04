@@ -36,6 +36,10 @@ https://dev.to/techiesdiary/chatgpt-prompts-for-optimizing-code-3kkg
 ChatGPT - Prompts for developers<BR>
 https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d
 
+John Rush - Compilation of 61 AI Coding Agents & IDEs and tested all of them<BR>
+https://x.com/johnrushx/status/1958363431922500053?t=_46afiJZuXcRwvFcqLJ7WQ&s=19
+
+
 ---
 
 # Tools
