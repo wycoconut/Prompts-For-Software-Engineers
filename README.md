@@ -38,12 +38,28 @@ https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d
 
 ---
 
-# Tools Walkthrough
+# Tools
 
-Gemini Code Assist<BR>
-https://www.youtube.com/watch?v=W1JxFwh5EGA
-(Free with Personal Google Account)
+## Gemini Code Assist<BR>
+[VSCode Extention](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA)
 
+Free with Personal Google Account.
+
+The "Gemini Code Assist for individuals" edition, which is the free tier, has very generous usage limits designed to support active individual developers.
+
+Free tier:
+* **Code Completions:** Up to **180,000 completions per month**.
+* **Chat Requests:** Up to **240 chat requests daily**.
+* **Code-Related Requests (General):** A limit of **6,000 code-related requests daily**.
+* The free tier **does not expire**.
+* It is accessed with a personal Google Account (not associated with Cloud Identity or Google Workspace).
+
+
+## Gemini CLI (Command Line Interface)
+https://github.com/google-gemini/gemini-cli
+
+Free tier:
+* **Model Requests:** Up to **1,000 requests per day** and **60 model requests per minute**.
 
 
 
