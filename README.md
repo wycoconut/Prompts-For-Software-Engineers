@@ -42,6 +42,10 @@ https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d
 
 Gemini Code Assist<BR>
 https://www.youtube.com/watch?v=W1JxFwh5EGA
+(Free with Personal Google Account)
+
+
+
 
 ----
 
