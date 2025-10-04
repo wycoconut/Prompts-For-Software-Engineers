@@ -2,8 +2,23 @@
 A list of useful prompts for Software Development purposes.
 
 
+# 12 Rules for Vibe Coding
 
----
+1. Start with vibe PMing
+2. Keep your tech stack simple
+3. Give Al the right rules & documentation
+4. Ask Al NOT to code
+5. Ask Al for options and pick the simple one
+6. Break tasks into small steps
+7. Include images to give Al context
+8. Test ruthlessly after every change
+9. Don't hesitate to revert
+10. Use Github for version control
+11. Use your voice to feel the vibes
+12. Ask Al to explain the code
+
+[Credits To Peter Yang](https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration)
+
 
 # Claude Docs (Prompt Library)
 https://docs.claude.com/en/resources/prompt-library/library
@@ -26,6 +41,9 @@ https://docs.claude.com/en/resources/prompt-library/library
 ---
 
 # Worth Reading
+
+12 Rules to Vibe Code Without Frustration<BR>(Peter Yang)
+https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration
 
 The Ultimate Vibe Coding Guide<BR>
 https://www.reddit.com/r/ClaudeAI/comments/1kivv0w/the_ultimate_vibe_coding_guide/
@@ -69,10 +87,9 @@ Free tier:
 * **Model Requests:** Up to **1,000 requests per day** and **60 model requests per minute**.
 
 
-
 ----
 
-# Credits:
+# Notable Git Repositories:
 
 DEV ChatGPT Prompts<BR>
 https://github.com/PickleBoxer/dev-chatgpt-prompts
