@@ -42,7 +42,7 @@ https://docs.claude.com/en/resources/prompt-library/library
 
 # Worth Reading
 
-12 Rules to Vibe Code Without Frustration<BR>(Peter Yang)
+12 Rules to Vibe Code Without Frustration (Peter Yang)<BR>
 https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration
 
 The Ultimate Vibe Coding Guide<BR>
