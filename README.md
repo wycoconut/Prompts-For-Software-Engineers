@@ -56,7 +56,7 @@ Free tier:
 
 
 ## Gemini CLI (Command Line Interface)
-https://github.com/google-gemini/gemini-cli
+[Website](https://google-gemini.github.io/gemini-cli/) | (GitHub](https://github.com/google-gemini/gemini-cli)
 
 Free tier:
 * **Model Requests:** Up to **1,000 requests per day** and **60 model requests per minute**.
