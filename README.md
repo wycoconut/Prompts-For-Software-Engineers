@@ -41,7 +41,7 @@ https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d
 # Tools
 
 ## Gemini Code Assist<BR>
-[VSCode Extention](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA) | [How to Prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4)
+[VSCode Extention](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA) | [Official Guide](https://developers.google.com/gemini-code-assist/docs/write-code-gemini) | [How to Prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4)
 
 Free with Personal Google Account.
 
