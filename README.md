@@ -27,6 +27,9 @@ https://docs.claude.com/en/resources/prompt-library/library
 
 # Worth Reading
 
+The Ultimate Vibe Coding Guide<BR>
+https://www.reddit.com/r/ClaudeAI/comments/1kivv0w/the_ultimate_vibe_coding_guide/
+
 ChatGPT - Prompts for Writing and Generating Codes<BR>
 https://dev.to/techiesdiary/chatgpt-prompts-for-writing-and-generating-codes-59kf
 
