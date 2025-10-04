@@ -10,6 +10,7 @@ https://docs.claude.com/en/resources/prompt-library/library
 
 - [Python bug buster](https://docs.claude.com/en/resources/prompt-library/python-bug-buster)
 - [SQL Sorcerer](https://docs.claude.com/en/resources/prompt-library/sql-sorcerer)
+- [Google apps scripter](https://docs.claude.com/en/resources/prompt-library/google-apps-scripter)
 - [Git gud](https://docs.claude.com/en/resources/prompt-library/git-gud)
 - [Code consultant](https://docs.claude.com/en/resources/prompt-library/code-consultant)
 - [Function fabricator](https://docs.claude.com/en/resources/prompt-library/function-fabricator)
