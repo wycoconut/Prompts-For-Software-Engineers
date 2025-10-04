@@ -66,7 +66,7 @@ https://x.com/johnrushx/status/1958363431922500053?t=_46afiJZuXcRwvFcqLJ7WQ&s=19
 # Tools
 
 ## Gemini Code Assist<BR>
-[VSCode Extention](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA) | [Official Guide](https://developers.google.com/gemini-code-assist/docs/write-code-gemini) | [How to Prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4)
+[VSCode Extention](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA) | [Official Guide](https://developers.google.com/gemini-code-assist/docs/write-code-gemini) | [How to Prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4) | [Learning Lab](https://www.cloudskillsboost.google/catalog_lab/31671)
 
 Free with Personal Google Account.
 
