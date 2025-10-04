@@ -23,8 +23,6 @@ https://docs.claude.com/en/resources/prompt-library/library
 
 
 
-
-
 ---
 
 # Worth Reading
@@ -37,6 +35,13 @@ https://dev.to/techiesdiary/chatgpt-prompts-for-optimizing-code-3kkg
 
 ChatGPT - Prompts for developers<BR>
 https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d
+
+---
+
+# Tools Walkthrough
+
+Gemini Code Assist<BR>
+https://www.youtube.com/watch?v=W1JxFwh5EGA
 
 ----
 
