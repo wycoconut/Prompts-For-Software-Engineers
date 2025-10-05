@@ -190,6 +190,25 @@ Provide:
 
 ---
 
+# Design Inspiration Stack
+https://mobbin.com/
+https://designvault.io/
+https://godly.website/
+
+## Others
+AppLaunchpad: App Store Screenshot Inspiration<BR>
+Landingfolio: Landing page inspiration<BR>
+Curated Design: Web UI Inspiration<BR>
+Coolors: Color Inspiration<BR>
+Logosystem: Logo Inspiration<BR>
+Magritte: Social media Ad Inspiration<BR>
+
+## UI / UX Case Studies of Good Websites
+** Good resource if you intend to actually UNDERSTAND the reason behind each design decision
+https://growth.design/case-studies
+
+---
+
 # Claude Docs (Prompt Library)
 https://docs.claude.com/en/resources/prompt-library/library
 
