@@ -1,6 +1,7 @@
 # Prompts For Software Engineers
 A list of useful prompts for Software Development purposes.
 
+---
 
 # 12 Rules for Vibe Coding
 
@@ -19,6 +20,7 @@ A list of useful prompts for Software Development purposes.
 
 [Credits To Peter Yang](https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration)
 
+---
 
 # Claude Docs (Prompt Library)
 https://docs.claude.com/en/resources/prompt-library/library
@@ -35,7 +37,6 @@ https://docs.claude.com/en/resources/prompt-library/library
 - [Spreadsheet sorcerer](https://docs.claude.com/en/resources/prompt-library/spreadsheet-sorcerer)
 - [CSV Converter](https://docs.claude.com/en/resources/prompt-library/csv-converter)
 - [Product naming pro](https://docs.claude.com/en/resources/prompt-library/product-naming-pro)
-
 
 
 ---
