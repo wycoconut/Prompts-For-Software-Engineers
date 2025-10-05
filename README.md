@@ -48,6 +48,9 @@ https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration
 The Ultimate Vibe Coding Guide<BR>
 https://www.reddit.com/r/ClaudeAI/comments/1kivv0w/the_ultimate_vibe_coding_guide/
 
+BWAI PRD Creator (André Teow)<BR>
+https://chatgpt.com/g/g-68235a9c5f8c8191875f682e6a6b4652-bwai-prd-creator
+
 ChatGPT - Prompts for Writing and Generating Codes<BR>
 https://dev.to/techiesdiary/chatgpt-prompts-for-writing-and-generating-codes-59kf
 
