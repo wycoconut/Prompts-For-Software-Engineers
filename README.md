@@ -54,6 +54,9 @@ https://chatgpt.com/g/g-68235a9c5f8c8191875f682e6a6b4652-bwai-prd-creator
 BWAI design system 2<BR>
 https://chatgpt.com/g/g-686c02218e648191b32d13f562b60790-bwai-design-system-2
 
+GoFullPage Chrome Extension<BR>
+https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+
 ChatGPT - Prompts for Writing and Generating Codes<BR>
 https://dev.to/techiesdiary/chatgpt-prompts-for-writing-and-generating-codes-59kf
 
