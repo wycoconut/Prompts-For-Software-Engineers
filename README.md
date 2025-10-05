@@ -191,20 +191,28 @@ Provide:
 ---
 
 # Design Inspiration Stack
-https://mobbin.com/
-https://designvault.io/
-https://godly.website/
+- https://mobbin.com/
+- https://appshots.design/
+- https://designvault.io/
+- https://godly.website/
+- https://www.darkmodedesign.com/
+- https://dribbble.com/
+- https://www.behance.net/
+- https://www.pinterest.com/mycornerview/web-ui/
+- https://www.banani.co/
 
-## Others
-AppLaunchpad: App Store Screenshot Inspiration<BR>
-Landingfolio: Landing page inspiration<BR>
-Curated Design: Web UI Inspiration<BR>
-Coolors: Color Inspiration<BR>
-Logosystem: Logo Inspiration<BR>
-Magritte: Social media Ad Inspiration<BR>
+## Colors
+- https://color.adobe.com/
+- https://coolors.co/
 
-## UI / UX Case Studies of Good Websites
-** Good resource if you intend to actually UNDERSTAND the reason behind each design decision
+## Others (Marketing)
+- AppLaunchpad: App Store Screenshot Inspiration<BR>
+- Landingfolio: Landing page inspiration<BR>
+- Logosystem: Logo Inspiration<BR>
+- Magritte: Social media Ad Inspiration<BR>
+
+## UI / UX Case Studies of Good Websites (Learning)
+Good resource if you intend to actually UNDERSTAND the reason behind each design decision<BR>
 https://growth.design/case-studies
 
 ---
@@ -225,6 +233,20 @@ https://docs.claude.com/en/resources/prompt-library/library
 - [CSV Converter](https://docs.claude.com/en/resources/prompt-library/csv-converter)
 - [Product naming pro](https://docs.claude.com/en/resources/prompt-library/product-naming-pro)
 
+
+---
+
+# OpenAI Codex
+** Note that Codex is currently being rolled out to Pro, Team, and Enterprise users only. 
+
+Official Prompting Guide (Short)<BR>
+https://developers.openai.com/codex/prompting/
+
+OpenAI's Codex: A Guide With 3 Practical Examples<BR>
+https://www.datacamp.com/tutorial/openai-codex
+
+OpenAI Codex CLI Tutorial (Datacamp)<BR>
+https://www.datacamp.com/tutorial/open-ai-codex-cli-tutorial
 
 ---
 
