@@ -51,6 +51,9 @@ https://www.reddit.com/r/ClaudeAI/comments/1kivv0w/the_ultimate_vibe_coding_guid
 BWAI PRD Creator (André Teow)<BR>
 https://chatgpt.com/g/g-68235a9c5f8c8191875f682e6a6b4652-bwai-prd-creator
 
+BWAI design system 2<BR>
+https://chatgpt.com/g/g-686c02218e648191b32d13f562b60790-bwai-design-system-2
+
 ChatGPT - Prompts for Writing and Generating Codes<BR>
 https://dev.to/techiesdiary/chatgpt-prompts-for-writing-and-generating-codes-59kf
 
