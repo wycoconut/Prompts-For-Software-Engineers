@@ -16,6 +16,13 @@ A list of useful prompts for Software Development purposes.
 [Worth Reading](#worth-reading)<BR>
 [Notable Git Repositories & Resources](#notable-git-repositories--resources)<BR>
 
+<BR>
+
+[Basic PRD Creation Template](PRD-Prompt.md)<BR>
+[AI Prompts Strategies](AI-Prompt-Strategies.md)<BR>
+[AI Powered Software Documentation](AI-Gen-Documentation.md)<BR>
+
+
 
 <BR><BR><BR>
 
