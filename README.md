@@ -5,8 +5,9 @@ A list of useful prompts for Software Development purposes.
 
 ### Basic Code Generation (Zero-Shot Prompting)
 ```
-You are an expert [programming language] developer. Write a function that [describe the task. Ensure the function is:
+You are an expert [programming language] developer. Write a function that [describe the task].
 
+Ensure the function is:
 - Well-documented: Add clear comments explaining each step.
 - Optimized for performance: Use efficient data structures and algorithms where applicable.
 - Robust: Handle edge cases such as empty inputs, incorrect data types, and large datasets.
