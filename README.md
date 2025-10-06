@@ -305,7 +305,7 @@ Free tier:
 
 
 ## Gemini CLI (Command Line Interface)
-[Website](https://google-gemini.github.io/gemini-cli/) | (GitHub](https://github.com/google-gemini/gemini-cli)
+[Website](https://google-gemini.github.io/gemini-cli/) | [GitHub](https://github.com/google-gemini/gemini-cli)
 
 Free tier:
 * **Model Requests:** Up to **1,000 requests per day** and **60 model requests per minute**.
@@ -317,6 +317,9 @@ Free tier:
 
 DEV ChatGPT Prompts<BR>
 https://github.com/PickleBoxer/dev-chatgpt-prompts
+
+Pack your codebase into AI-friendly formats<BR>
+https://repomix.com/
 
 OWASP GenAI Security Project<BR>
 https://genai.owasp.org/
