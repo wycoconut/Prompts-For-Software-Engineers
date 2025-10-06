@@ -317,3 +317,6 @@ Free tier:
 
 DEV ChatGPT Prompts<BR>
 https://github.com/PickleBoxer/dev-chatgpt-prompts
+
+OWASP For software applications with gen ai
+https://owasp.org/www-project-top-10-for-large-language-model-applications/
