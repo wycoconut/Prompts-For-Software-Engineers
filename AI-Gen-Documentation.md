@@ -1,15 +1,22 @@
 # AI Powered Software Documentation
 Save Time and Effort with these AI Tools.<BR>
-Disclaimer : Prices listed here are as of 6 October 2025, Please check sources for Plan & Price updates.
+
+_Disclaimer : <BR>
+Prices listed as of 6 October 2025.  Please check official sites for Plan & Price updates._
 
 [Github Readme Templates](#github-readme-templates)<BR>
 [Nicer Screenshots & Diagrams](#nicer-screenshots--diagrams)<BR>
 [Make Code Look Pretty](#make-code-look-pretty)<BR>
 [Convert Code Language A To Code Language B](#convert-code-language-a-to-code-language-b)<BR>
+[Code Comments To Documentation](#code-comments-to-documentation)<BR>
+[Code To PDF](#code-to-pdf)<BR>
+[Record Demo and Straight to Manual](#record-demo-and-straight-to-manual)<BR>
+[Record Demo and Create Video Documentation](#record-demo-and-create-video-documentation)<BR>
+[Record Auto Zoomable Video](#record-auto-zoomable-video)<BR>
+[Presentations](#presentations)<BR>
+[Create SOP With AI](#create-sop-with-ai)<BR>
 
-
-
-
+<BR><BR><BR>
 
 # Github Readme Templates
 
