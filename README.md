@@ -1,6 +1,26 @@
 # Prompts For Software Engineers
 A list of useful prompts for Software Development purposes.
 
+[Code Generation Prompts](#1-code-generation-prompts)<BR>
+[Debugging and Error Resolution](#2-debugging-and-error-resolution)<BR>
+[Code Review and Best Practices](#3-code-review-and-best-practices)<BR>
+[Documentation and Explanation](#4-documentation-and-explanation)<BR>
+[AI for DevOps and Automation](#5-ai-for-devops-and-automation)<BR>
+[Create Regular Expressions](#6-create-regular-expressions)<BR>
+[Data Processing and Analysis](#7-data-processing-and-analysis)<BR>
+[12 Rules for Vibe Coding](#12-rules-for-vibe-coding)<BR>
+[Design Inspiration Stack](#design-inspiration-stack)<BR>
+[Claude Docs (Prompt Library)](#claude-docs-prompt-library)<BR>
+[OpenAI Codex](#openai-codex)<BR>
+[Google Code Gen Tools](#google-code-gen-tools)<BR>
+[Worth Reading](#worth-reading)<BR>
+[Notable Git Repositories & Resources](#notable-git-repositories--resources)<BR>
+
+
+<BR><BR><BR>
+
+---
+
 ## 1. Code Generation Prompts
 
 ### Basic Code Generation (Zero-Shot Prompting)
@@ -142,6 +162,21 @@ Write a [CI/CD tool] workflow to automate the deployment of a [technology/framew
 - Provides logging and alerts for failures.
 ```
 
+## 6. Create Regular Expressions
+
+Regular expressions help us to match, locate, and manage text, providing a quick and relatively easy way to manipulate data, particularly in large complex programs.<BR>
+Be careful, it's prone to mistakes, so it's always a good idea to test it on an app like https://regex101.com/
+
+```
+Create regex to match all email addresses in list.
+
+Create regex to match all strings that looks like a credit card number.
+
+Create regex to match all words that start with "ban".
+
+Create regex to match 8-digit password.
+```
+
 ## 7. Data Processing and Analysis
 
 ### Data Cleaning with Pandas
@@ -251,6 +286,47 @@ https://www.datacamp.com/tutorial/open-ai-codex-cli-tutorial
 
 ---
 
+# Google Code Gen Tools
+
+## Gemini Code Assist<BR>
+[VSCode Extention](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA) | [Official Guide](https://developers.google.com/gemini-code-assist/docs/write-code-gemini) | [How to Prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4) | [Learning Lab](https://www.cloudskillsboost.google/catalog_lab/31671)
+
+Free with Personal Google Account.
+
+The "Gemini Code Assist for individuals" edition, which is the free tier, has very generous usage limits designed to support active individual developers.
+
+Free tier:
+* **Code Completions:** Up to **180,000 completions per month**.
+* **Chat Requests:** Up to **240 chat requests daily**.
+* **Code-Related Requests (General):** A limit of **6,000 code-related requests daily**.
+* The free tier **does not expire**.
+* It is accessed with a personal Google Account (not associated with Cloud Identity or Google Workspace).
+
+
+## Gemini CLI (Command Line Interface)
+[Website](https://google-gemini.github.io/gemini-cli/) | [GitHub](https://github.com/google-gemini/gemini-cli)
+
+Free tier:
+* **Model Requests:** Up to **1,000 requests per day** and **60 model requests per minute**.
+
+
+## Google Jules
+[Website](https://jules.google/)
+An Asynchronous Coding Agent
+
+
+## Google AI Studio --> Gemini Build Apps Feature
+[Website](https://aistudio.google.com/apps)
+
+
+## Google Opal
+[Website](https://opal.withgoogle.com/)
+Build, edit and share mini-AI apps using natural language
+
+
+----
+
+
 # Worth Reading
 
 12 Rules to Vibe Code Without Frustration (Peter Yang)<BR>
@@ -287,32 +363,6 @@ GitHub Copilot with VS Code<BR>
 https://medium.com/@bobmain49/github-copilot-with-vs-code-here-we-go-d9dd29512866
 
 ---
-
-# Tools
-
-## Gemini Code Assist<BR>
-[VSCode Extention](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA) | [Official Guide](https://developers.google.com/gemini-code-assist/docs/write-code-gemini) | [How to Prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4) | [Learning Lab](https://www.cloudskillsboost.google/catalog_lab/31671)
-
-Free with Personal Google Account.
-
-The "Gemini Code Assist for individuals" edition, which is the free tier, has very generous usage limits designed to support active individual developers.
-
-Free tier:
-* **Code Completions:** Up to **180,000 completions per month**.
-* **Chat Requests:** Up to **240 chat requests daily**.
-* **Code-Related Requests (General):** A limit of **6,000 code-related requests daily**.
-* The free tier **does not expire**.
-* It is accessed with a personal Google Account (not associated with Cloud Identity or Google Workspace).
-
-
-## Gemini CLI (Command Line Interface)
-[Website](https://google-gemini.github.io/gemini-cli/) | [GitHub](https://github.com/google-gemini/gemini-cli)
-
-Free tier:
-* **Model Requests:** Up to **1,000 requests per day** and **60 model requests per minute**.
-
-
-----
 
 # Notable Git Repositories & Resources:
 
