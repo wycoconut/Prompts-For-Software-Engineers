@@ -313,10 +313,13 @@ Free tier:
 
 ----
 
-# Notable Git Repositories:
+# Notable Git Repositories & Resources:
 
 DEV ChatGPT Prompts<BR>
 https://github.com/PickleBoxer/dev-chatgpt-prompts
 
-OWASP For software applications with gen ai
-https://owasp.org/www-project-top-10-for-large-language-model-applications/
+OWASP GenAI Security Project<BR>
+https://genai.owasp.org/
+
+Discover Open Source Alternatives to Popular Software<BR>
+https://openalternative.co/
