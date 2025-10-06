@@ -1,6 +1,8 @@
 # Prompts For Software Engineers
 A list of useful prompts for Software Development purposes.
+<BR>
 
+**Cheatsheet**<BR>
 [Code Generation Prompts](#1-code-generation-prompts)<BR>
 [Debugging and Error Resolution](#2-debugging-and-error-resolution)<BR>
 [Code Review and Best Practices](#3-code-review-and-best-practices)<BR>
@@ -8,19 +10,37 @@ A list of useful prompts for Software Development purposes.
 [AI for DevOps and Automation](#5-ai-for-devops-and-automation)<BR>
 [Create Regular Expressions](#6-create-regular-expressions)<BR>
 [Data Processing and Analysis](#7-data-processing-and-analysis)<BR>
-[12 Rules for Vibe Coding](#12-rules-for-vibe-coding)<BR>
-[Design Inspiration Stack](#design-inspiration-stack)<BR>
-[Claude Docs (Prompt Library)](#claude-docs-prompt-library)<BR>
-[OpenAI Codex](#openai-codex)<BR>
-[Google Code Gen Tools](#google-code-gen-tools)<BR>
-[Worth Reading](#worth-reading)<BR>
-[Notable Git Repositories & Resources](#notable-git-repositories--resources)<BR>
 
 <BR>
 
+**Creating MVP / Fast Mockups**<BR>
+[12 Rules for Vibe Coding](#12-rules-for-vibe-coding)<BR>
+[Design Inspiration Stack](#design-inspiration-stack)<BR>
+
+<BR>
+
+**Official LLM Platforms**<BR>
+[Claude Docs (Prompt Library)](#claude-docs-prompt-library)<BR>
+[OpenAI Codex](#openai-codex)<BR>
+[Google Code Gen Tools](#google-code-gen-tools)<BR>
+
+<BR>
+
+**Context Engineering Strategies**<BR>
 [Basic PRD Creation Template](PRD-Prompt.md)<BR>
 [AI Prompts Strategies](AI-Prompt-Strategies.md)<BR>
-[AI Powered Software Documentation](AI-Gen-Documentation.md)<BR>
+
+<BR>
+
+**Creating Documentation & Guides**<BR>
+[AI Powered Software Documentation Tools](AI-Gen-Documentation.md)<BR>
+
+<BR>
+
+**Articles**<BR>
+[Worth Reading](#worth-reading)<BR>
+[Notable Git Repositories & Resources](#notable-git-repositories--resources)<BR>
+
 
 
 
