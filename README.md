@@ -40,6 +40,8 @@ A list of useful prompts for Software Development purposes.
 **Articles**<BR>
 [Worth Reading](#worth-reading)<BR>
 [Notable Git Repositories & Resources](#notable-git-repositories--resources)<BR>
+[10 Levels Of Automation](Ten-levels-of-automation-according-to-24.png)<BR>
+[Forward Deployed Engineer Job Description](Forward-Deployed-Engineer.md)<BR>
 
 
 
