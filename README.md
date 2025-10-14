@@ -392,8 +392,8 @@ https://dev.to/techiesdiary/chatgpt-prompts-for-optimizing-code-3kkg
 ChatGPT - Prompts for developers<BR>
 https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d
 
-John Rush - Compilation of 61 AI Coding Agents & IDEs and tested all of them<BR>
-https://x.com/johnrushx/status/1958363431922500053?t=_46afiJZuXcRwvFcqLJ7WQ&s=19
+John Rush - Compilation of 74 AI Coding Agents & IDEs and tested all of them<BR>
+https://x.com/johnrushx/status/1976286586351517810
 
 GitHub Copilot with VS Code<BR>
 https://medium.com/@bobmain49/github-copilot-with-vs-code-here-we-go-d9dd29512866
