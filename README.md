@@ -282,6 +282,13 @@ https://growth.design/case-studies
 
 ---
 
+# Prompting Framework
+
+Might be useful when you build AI Assistants (System Prompts)
+https://buttercms.com/blog/chatgpt-prompt-frameworks/
+
+---
+
 # Claude Docs (Prompt Library)
 https://docs.claude.com/en/resources/prompt-library/library
 
