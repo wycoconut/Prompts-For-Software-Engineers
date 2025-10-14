@@ -409,4 +409,5 @@ https://openalternative.co/
 
 Integrating Gemini With Slack Bot<br>
 https://www.marketcalls.in/python/building-a-digital-assistant-in-slack-with-google-gemini-a-step-by-step-guide.html
+GitHub : https://github.com/marketcalls/google-gemini-slackbot
 
