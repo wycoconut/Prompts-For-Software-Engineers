@@ -31,7 +31,7 @@ Readme Studio<BR>
 
 - https://screenshotr.app/ (Web App, No Watermark), Auto Grab Screenshot by URL
 - https://www.freepik.com/mockups, search for "mobile" / "computer", and filter "free"
-- https://excalidraw.com/
+- https://excalidraw.com/ (Self Host : https://github.com/excalidraw/excalidraw)
 - https://www.napkin.ai/
 
 # Make Code Look Pretty
