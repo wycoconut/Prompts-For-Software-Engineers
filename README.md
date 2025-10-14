@@ -406,3 +406,7 @@ https://genai.owasp.org/
 
 Discover Open Source Alternatives to Popular Software<BR>
 https://openalternative.co/
+
+Integrating Gemini With Slack Bot<br>
+https://www.marketcalls.in/python/building-a-digital-assistant-in-slack-with-google-gemini-a-step-by-step-guide.html
+
