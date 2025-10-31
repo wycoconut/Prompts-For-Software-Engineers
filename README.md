@@ -42,7 +42,7 @@ A list of useful prompts for Software Development purposes.
 [Notable Git Repositories & Resources](#notable-git-repositories--resources)<BR>
 [10 Levels Of Automation](Ten-levels-of-automation-according-to-24.png)<BR>
 [Forward Deployed Engineer Job Description](Forward-Deployed-Engineer.md)<BR>
-
+[How To Choose A Local LLM To Use With Your AI Coding IDE](Local-AI-Coding.md)
 
 
 
