@@ -350,14 +350,35 @@ Free tier:
 [Website](https://jules.google/)
 An Asynchronous Coding Agent
 
+## Google Antigravity
+[Website](https://antigravity.google/) | [Google CodeLabs](https://codelabs.developers.google.com/getting-started-google-antigravity?hl=en#0)
+Orchestrate Multiple Coding Agents
+
+<BR>
+Jules and Antigravity are Google's AI-powered developer tools, but they serve different roles: <BR>
+- Jules is an autonomous coding assistant for tasks like tests/bugs within repos<BR>
+- Antigravity is a full AI-first IDE that orchestrates multiple agents (including Jules) for complex workflows, handling browser/UI tasks alongside code, creating a unified experience for planning and executing development. 
+<BR><BR>
+Think of Jules as the skilled worker handling code changes, and Antigravity as the project manager that directs Jules and other agents (like browser bots) from a central IDE, coordinating the whole process with human oversight.
+<BR>
 
 ## Google AI Studio --> Gemini Build Apps Feature
 [Website](https://aistudio.google.com/apps)
+Prompt to Code.  You can Commit the Code to GitHub, Deploy to GCP and Publish with Public Link.
+Compared to Google Opal, this is more "full fledged" and a developer can continue easily.
 
+## Google Gemini Gems
+[Website](https://gemini.google.com/gems/view)
+Create Customized Gemini Chatbots with system prompt and knowledge-base (documents) only.  No Code.
+
+## Google Gemini Gems From Labs (Experiment)
+[Website](https://gemini.google.com/gems/view)
+Prompt to App Idea.  You can see the steps of each tasks clearly along with system prompts used to produce the result at each stage.  Building and Execution can take quite some time to complete (anywhere between 10 to 20 minutes).
+When you click on "Open in Advanced Editor", it opens in Google Opal.
 
 ## Google Opal
 [Website](https://opal.withgoogle.com/)
-Build, edit and share mini-AI apps using natural language
+Build, edit and share mini-AI apps using natural language.  It works like a workflow node editor.
 
 
 ----
