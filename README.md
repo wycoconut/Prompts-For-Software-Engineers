@@ -326,7 +326,7 @@ https://www.datacamp.com/tutorial/open-ai-codex-cli-tutorial
 # Google Code Gen Tools
 
 ## Gemini Code Assist<BR>
-[VSCode Extention](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA) | [Official Guide](https://developers.google.com/gemini-code-assist/docs/write-code-gemini) | [How to Prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4) | [Learning Lab](https://www.cloudskillsboost.google/catalog_lab/31671)
+[VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA) | [Official Guide](https://developers.google.com/gemini-code-assist/docs/write-code-gemini) | [How to Prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4) | [Learning Lab](https://www.cloudskillsboost.google/catalog_lab/31671)
 
 Free with Personal Google Account.
 
@@ -349,11 +349,11 @@ Free tier:
 
 ## Google Jules
 [Website](https://jules.google/)
-An Asynchronous Coding Agent
+An Asynchronous Coding Agen, Web Based.
 
 ## Google Antigravity
 [Website](https://antigravity.google/) | [Google CodeLabs](https://codelabs.developers.google.com/getting-started-google-antigravity?hl=en#0)
-Orchestrate Multiple Coding Agents
+Orchestrate Multiple Coding Agents, Desktop IDE (VSCode fork).
 
 <BR>
 Jules and Antigravity are Google's AI-powered developer tools, but they serve different roles: <BR>
@@ -366,20 +366,20 @@ Think of Jules as the skilled worker handling code changes, and Antigravity as t
 ## Google AI Studio --> Gemini Build Apps Feature
 [Website](https://aistudio.google.com/apps)
 Prompt to Code.  You can Commit the Code to GitHub, Deploy to GCP and Publish with Public Link.
-Compared to Google Opal, this is more "full fledged" and a developer can continue easily.
+Compared to Google Opal, this is more "full fledged" and a developer can continue easily.  Web Based.
 
 ## Google Gemini Gems
 [Website](https://gemini.google.com/gems/view)
-Create Customized Gemini Chatbots with system prompt and knowledge-base (documents) only.  No Code.
+Create Customized Gemini Chatbots with system prompt and knowledge-base (documents) only.  No Code. Web Based.
 
 ## Google Gemini Gems From Labs (Experiment)
 [Website](https://gemini.google.com/gems/view)
 Prompt to App Idea.  You can see the steps of each tasks clearly along with system prompts used to produce the result at each stage.  Building and Execution can take quite some time to complete (anywhere between 10 to 20 minutes).
-When you click on "Open in Advanced Editor", it opens in Google Opal.
+When you click on "Open in Advanced Editor", it opens in Google Opal. Web Based.
 
 ## Google Opal
 [Website](https://opal.withgoogle.com/)
-Build, edit and share mini-AI apps using natural language.  It works like a workflow node editor.
+Build, edit and share mini-AI apps using natural language.  It works like a workflow node editor. Web Based.
 
 
 ----
