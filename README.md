@@ -10,6 +10,7 @@ A list of useful prompts for Software Development purposes.
 [AI for DevOps and Automation](#5-ai-for-devops-and-automation)<BR>
 [Create Regular Expressions](#6-create-regular-expressions)<BR>
 [Data Processing and Analysis](#7-data-processing-and-analysis)<BR>
+[AI Assisted Coding and Example spec.md](AI-Assisted-Coding.md)<BR>
 
 <BR>
 
