@@ -43,9 +43,9 @@ A list of useful prompts for Software Development purposes.
 [Notable Git Repositories & Resources](#notable-git-repositories--resources)<BR>
 [10 Levels Of Automation](Ten-levels-of-automation-according-to-24.png)<BR>
 [Forward Deployed Engineer Job Description](Forward-Deployed-Engineer.md)<BR>
-[How To Choose A Local LLM To Use With Your AI Coding IDE](Local-AI-Coding.md)
-
-
+[How To Choose A Local LLM To Use With Your AI Coding IDE](Local-AI-Coding.md)<BR>
+[Make Claude Code Free/Cheaper with DeepSeek V4](https://github.com/MG-Cafe/claudecode-deepseek-stack)<BR>
+[Turn your Obsidian into an AI second brain For Code Enthusiasts](https://www.linkedin.com/posts/nadezhda-privalikhina_you-dont-need-vs-code-to-use-claude-code-share-7455539756584558593-rEP_)
 
 <BR><BR><BR>
 
