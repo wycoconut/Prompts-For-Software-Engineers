@@ -1,3 +1,5 @@
+
+
 # Prompts For Software Engineers
 A list of useful prompts for Software Development purposes.
 <BR>
@@ -428,7 +430,7 @@ DEV ChatGPT Prompts<BR>
 https://github.com/PickleBoxer/dev-chatgpt-prompts
 
 Pack your codebase into AI-friendly formats<BR>
-https://repomix.com/
+https://github.com/yamadashy/repomix
 
 OWASP GenAI Security Project<BR>
 https://genai.owasp.org/
@@ -439,4 +441,3 @@ https://openalternative.co/
 Integrating Gemini With Slack Bot<br>
 https://www.marketcalls.in/python/building-a-digital-assistant-in-slack-with-google-gemini-a-step-by-step-guide.html
 GitHub : https://github.com/marketcalls/google-gemini-slackbot
-
