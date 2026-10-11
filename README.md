@@ -440,3 +440,5 @@ Integrating Gemini With Slack Bot<br>
 https://www.marketcalls.in/python/building-a-digital-assistant-in-slack-with-google-gemini-a-step-by-step-guide.html
 GitHub : https://github.com/marketcalls/google-gemini-slackbot
 
+AI-ready, Markdown-first engineering workspace starter for multi-agent software development, knowledge management, and structured project execution<br>
+GitHub : https://github.com/jtampac/junmarvi-workspace-starter
