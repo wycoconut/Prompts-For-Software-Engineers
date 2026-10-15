@@ -371,6 +371,7 @@ Compared to Google Opal, this is more "full fledged" and a developer can continu
 ## Google Gemini Skills
 [Website](https://gemini.google/overview/productivity/)
 [Skills In Gemini 101 Guide](https://workspace.google.com/learning/report/content/skills-in-gemini-101)
+[Create and Manage Skills For Gemini Apps](https://support.google.com/gemini/answer/17094296)
 
 ** Google Gemini Gems (Will be graduated as Skills by November 2026)
 [News About the Transition](https://knowledge.workspace.google.com/admin/generative-ai/gemini-app/about-the-transition-to-skills)
