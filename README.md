@@ -290,27 +290,27 @@ https://buttercms.com/blog/chatgpt-prompt-frameworks/
 
 ---
 
-# Claude Docs (Prompt Library)
-https://docs.claude.com/en/resources/prompt-library/library
+# Claude Code
+** Note that Claude Code is only available on PRO Plan and Above. 
 
-- [Python bug buster](https://docs.claude.com/en/resources/prompt-library/python-bug-buster)
-- [SQL Sorcerer](https://docs.claude.com/en/resources/prompt-library/sql-sorcerer)
-- [Google apps scripter](https://docs.claude.com/en/resources/prompt-library/google-apps-scripter)
-- [Git gud](https://docs.claude.com/en/resources/prompt-library/git-gud)
-- [Code consultant](https://docs.claude.com/en/resources/prompt-library/code-consultant)
-- [Function fabricator](https://docs.claude.com/en/resources/prompt-library/function-fabricator)
-- [Code clarifier](https://docs.claude.com/en/resources/prompt-library/code-clarifier)
-- [Efficiency estimator](https://docs.claude.com/en/resources/prompt-library/efficiency-estimator)
-- [Data organizer](https://docs.claude.com/en/resources/prompt-library/data-organizer)
-- [Spreadsheet sorcerer](https://docs.claude.com/en/resources/prompt-library/spreadsheet-sorcerer)
-- [CSV Converter](https://docs.claude.com/en/resources/prompt-library/csv-converter)
-- [Product naming pro](https://docs.claude.com/en/resources/prompt-library/product-naming-pro)
+Common Workflows<BR>
+- [Prompt recipes](https://code.claude.com/docs/en/common-workflows#prompt-recipes) for exploring code, fixing bugs, refactoring, testing, PRs, and documentation
+- [Resume previous conversations](https://code.claude.com/docs/en/common-workflows#resume-previous-conversations) so a task can span multiple sittings
+- [Run parallel sessions with worktrees](https://code.claude.com/docs/en/common-workflows#run-parallel-sessions-with-worktrees) so concurrent edits don’t collide
+- [Plan before editing](https://code.claude.com/docs/en/common-workflows#plan-before-editing) to review changes before they touch disk
+- [Delegate research to subagents](https://code.claude.com/docs/en/common-workflows#delegate-research-to-subagents) to keep your main context clean
+- [Pipe Claude into scripts](https://code.claude.com/docs/en/common-workflows#pipe-claude-into-scripts) for CI and batch processing
 
+Prompt Library<BR>
+https://code.claude.com/docs/en/prompt-library
+
+Best Practices<BR>
+https://code.claude.com/docs/en/best-practices
 
 ---
 
 # OpenAI Codex
-** Note that Codex is currently being rolled out to Pro, Team, and Enterprise users only. 
+** Note that you can try Codex on Free Account with limits. 
 
 Official Prompting Guide (Short)<BR>
 https://developers.openai.com/codex/prompting/
@@ -345,7 +345,6 @@ Free tier:
 
 Free tier:
 * **Model Requests:** Up to **1,000 requests per day** and **60 model requests per minute**.
-
 
 ## Google Jules
 [Website](https://jules.google/)
