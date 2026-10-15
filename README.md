@@ -369,8 +369,8 @@ Compared to Google Opal, this is more "full fledged" and a developer can continu
 
 
 ## Google Gemini Skills
-[Website](https://gemini.google/overview/productivity/)
-[Skills In Gemini 101 Guide](https://workspace.google.com/learning/report/content/skills-in-gemini-101)
+[Website](https://gemini.google/overview/productivity/) | 
+[Skills In Gemini 101 Guide](https://workspace.google.com/learning/report/content/skills-in-gemini-101) |
 [Create and Manage Skills For Gemini Apps](https://support.google.com/gemini/answer/17094296)
 
 ** Google Gemini Gems (Will be graduated as Skills by November 2026)
@@ -378,6 +378,18 @@ Compared to Google Opal, this is more "full fledged" and a developer can continu
 
 ** Google Opal (Will be graduated as Skills by November 2026)
 [News About the Transition](https://developers.google.com/opal/faq)
+
+
+## Google Labs - Playground (experiment)
+** Note for now US only, 18 and up.  Simple, casual games. Not Elden Ring.<BR>
+[Website](https://labs.google/playground) | 
+[Read User Review](https://medium.com/@vinayanand2/google-playground-is-live-build-a-game-with-ai-prompts-tonight-no-code-required-0d27d177aaab) <BR>
+Create custom browser games in minutes.
+
+Playground runs on three of its AI models plus a custom game-building system trained on games Google made internally:
+- Gemini is the screenwriter and game designer. It turns your description into actual game logic: rules, physics, scoring.
+- Nano Banana is the illustrator. It draws the characters, backgrounds, and art in a consistent style. You can even upload your own photos, and the AI restyles them into game assets that match.
+- Lyria is the composer. It generates the music.
 
 
 ----
