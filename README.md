@@ -367,18 +367,16 @@ Think of Jules as the skilled worker handling code changes, and Antigravity as t
 Prompt to Code.  You can Commit the Code to GitHub, Deploy to GCP and Publish with Public Link.
 Compared to Google Opal, this is more "full fledged" and a developer can continue easily.  Web Based.
 
-## Google Gemini Gems
-[Website](https://gemini.google.com/gems/view)
-Create Customized Gemini Chatbots with system prompt and knowledge-base (documents) only.  No Code. Web Based.
 
-## Google Gemini Gems From Labs (Experiment)
-[Website](https://gemini.google.com/gems/view)
-Prompt to App Idea.  You can see the steps of each tasks clearly along with system prompts used to produce the result at each stage.  Building and Execution can take quite some time to complete (anywhere between 10 to 20 minutes).
-When you click on "Open in Advanced Editor", it opens in Google Opal. Web Based.
+## Google Gemini Skills
+[Website](https://gemini.google/overview/productivity/)
+[Skills In Gemini 101 Guide](https://workspace.google.com/learning/report/content/skills-in-gemini-101)
 
-## Google Opal
-[Website](https://opal.withgoogle.com/)
-Build, edit and share mini-AI apps using natural language.  It works like a workflow node editor. Web Based.
+** Google Gemini Gems (Will be graduated as Skills by November 2026)
+[News About the Transition](https://knowledge.workspace.google.com/admin/generative-ai/gemini-app/about-the-transition-to-skills)
+
+** Google Opal (Will be graduated as Skills by November 2026)
+[News About the Transition](https://developers.google.com/opal/faq)
 
 
 ----
