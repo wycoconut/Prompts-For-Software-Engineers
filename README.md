@@ -325,48 +325,61 @@ https://www.datacamp.com/tutorial/open-ai-codex-cli-tutorial
 
 # Google Code Gen Tools
 
-## Gemini Code Assist<BR>
-[VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist) | [Video Walkthrough](https://www.youtube.com/watch?v=W1JxFwh5EGA) | [Official Guide](https://developers.google.com/gemini-code-assist/docs/write-code-gemini) | [How to Prompt Gemini Code Assist](https://www.youtube.com/watch?v=Jr2nze3bwd4) | [Learning Lab](https://www.cloudskillsboost.google/catalog_lab/31671)
+## Google Antigravity
+[Website](https://antigravity.google/) | [Google CodeLabs](https://codelabs.developers.google.com/getting-started-google-antigravity?hl=en#0)
+Orchestrate Multiple Coding Agents, Desktop IDE (VSCode fork). <BR>
 
-Free with Personal Google Account.
+** Gemini Code Assist already depreciated since June 2026.
 
-The "Gemini Code Assist for individuals" edition, which is the free tier, has very generous usage limits designed to support active individual developers.
-
-Free tier:
-* **Code Completions:** Up to **180,000 completions per month**.
-* **Chat Requests:** Up to **240 chat requests daily**.
-* **Code-Related Requests (General):** A limit of **6,000 code-related requests daily**.
-* The free tier **does not expire**.
-* It is accessed with a personal Google Account (not associated with Cloud Identity or Google Workspace).
-
-
-## Gemini CLI (Command Line Interface)
-[Website](https://google-gemini.github.io/gemini-cli/) | [GitHub](https://github.com/google-gemini/gemini-cli)
-
-Free tier:
-* **Model Requests:** Up to **1,000 requests per day** and **60 model requests per minute**.
+<BR>
 
 ## Google Jules
 [Website](https://jules.google/)
-An Asynchronous Coding Agen, Web Based.
+An Asynchronous Coding Agen, Web Based. <BR>
 
-## Google Antigravity
-[Website](https://antigravity.google/) | [Google CodeLabs](https://codelabs.developers.google.com/getting-started-google-antigravity?hl=en#0)
-Orchestrate Multiple Coding Agents, Desktop IDE (VSCode fork).
+Free Plan
+- 15 tasks per day
+- 3 concurrent tasks
+- Powered by Gemini 2.5 Pro
 
-<BR>
-Jules and Antigravity are Google's AI-powered developer tools, but they serve different roles: <BR>
+<BR><BR>
+
+Side Note : Jules and Antigravity are Google's AI-powered developer tools, but they serve different roles: <BR>
 - Jules is an autonomous coding assistant for tasks like tests/bugs within repos<BR>
 - Antigravity is a full AI-first IDE that orchestrates multiple agents (including Jules) for complex workflows, handling browser/UI tasks alongside code, creating a unified experience for planning and executing development. 
 <BR><BR>
 Think of Jules as the skilled worker handling code changes, and Antigravity as the project manager that directs Jules and other agents (like browser bots) from a central IDE, coordinating the whole process with human oversight.
+
+<BR>
+
+## Gemini CLI (Command Line Interface)
+[Website](https://google-gemini.github.io/gemini-cli/) | [GitHub](https://github.com/google-gemini/gemini-cli)
+
 <BR>
 
 ## Google AI Studio --> Gemini Build Apps Feature
-[Website](https://aistudio.google.com/apps)
-Prompt to Code.  You can Commit the Code to GitHub, Deploy to GCP and Publish with Public Link.
-Compared to Google Opal, this is more "full fledged" and a developer can continue easily.  Web Based.
+[Website](https://aistudio.google.com/apps) <BR>
+Prompt to Code.  You can Commit the Code to GitHub, Deploy to GCP and Publish with Public Link.<BR>
 
+You can also design and build native Android mobile apps directly using Google AI Studio and deploy or test them using an APK or direct device installation. <BR>
+
+October 2026 Update : 
+- Google AI Studio now lets you make your own personal apps.
+- The apps bypass the public Play Store, but you can share with friends.
+- Apps you create will work on your own device.
+<BR>
+
+[Read More](https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/)
+
+<BR>
+
+## Google Stitch
+[Website](https://stitch.withgoogle.com/) <BR>
+- AI Design Canvas: A free experimental AI UI design tool from Google Labs that turns plain-text prompts, sketches, or reference images into multi-screen mobile and web interfaces. <BR>
+- Prototyping & Export: Allows you to generate interactive prototypes, edit themes in real time, and export designs or code directly into developer tools. <BR>
+- You can also perform "show and tell" interactive demos of your mobile app on the platform.
+
+<BR>
 
 ## Google Gemini Skills
 [Website](https://gemini.google/overview/productivity/) | 
